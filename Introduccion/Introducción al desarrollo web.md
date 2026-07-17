@@ -27,7 +27,7 @@ Este ultimo punto es por que Stack Overflow es un blog donde la gente publica pr
 
 ---
 
-Link al curso: [Motivation and Mindset](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
+Link al curso: [Introduction to Web Development](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
 
-Tema anterior: [[Introduccion]]
+Tema anterior: [[Introduccion|Introducción]]
 Tema siguiente: [[Motivación]]
