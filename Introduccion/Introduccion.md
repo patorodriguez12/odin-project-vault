@@ -9,5 +9,7 @@ Por supuesto que no, este curso esta pensado para cursarse de manera creciente y
 
 ---
 
-Siguiente tema: [[Introducción al desarrollo web]]
+Link al curso: [How this course will work](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work)
+
+Tema siguiente: [[Introducción al desarrollo web]]
 
