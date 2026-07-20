@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae09b80dca58c6b",
+        "id": "62b8b64cff1185a5",
         "type": "tabs",
         "children": [
           {
-            "id": "da6014766cbbe68e",
+            "id": "6da6f4e551ede8e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -176,17 +176,18 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "da6014766cbbe68e",
+  "active": "6da6f4e551ede8e9",
   "lastOpenFiles": [
+    "Prerrequisitos/Prerrequisitos.md",
+    "Introduccion/Pidiendo ayuda.md",
+    "Introduccion/Introduccion.md",
+    "Introduccion/Odin Community.md",
     "Introduccion/Motivación.md",
     "Introduccion/Introducción al desarrollo web.md",
-    "Introduccion/Introduccion.md",
     "The Odin Project.md",
-    "Introduccion/Pidiendo ayuda.md",
     "Sin título.md",
     "Git Basics/Git Basics.md",
     "Sin título 1.md",
-    "Prerrequisitos/Prerrequisitos.md",
     "Git Basics",
     "Prerrequisitos",
     "Introduccion"
